@@ -1,0 +1,7 @@
+Company: AT&T Inc. 
+Symbol: T 
+Price: 20.61 
+Change: +0.29 
+Percent Change: +1.43% 
+PE Ratio: 8.67 
+More Info: https://finance.yahoo.com/quote/T?p=T 

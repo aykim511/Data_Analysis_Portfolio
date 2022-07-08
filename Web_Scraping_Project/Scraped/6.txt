@@ -1,0 +1,7 @@
+Company: NVIDIA Corporation 
+Symbol: NVDA 
+Price: 157.04 
+Change: -1.54 
+Percent Change: -0.97% 
+PE Ratio: 42.11 
+More Info: https://finance.yahoo.com/quote/NVDA?p=NVDA 

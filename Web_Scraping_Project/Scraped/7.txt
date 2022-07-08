@@ -1,0 +1,7 @@
+Company: Vale S.A. 
+Symbol: VALE 
+Price: 13.92 
+Change: -0.56 
+Percent Change: -3.87% 
+PE Ratio: 3.11 
+More Info: https://finance.yahoo.com/quote/VALE?p=VALE 

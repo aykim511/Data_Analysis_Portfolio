@@ -1,0 +1,7 @@
+Company: Apple Inc. 
+Symbol: AAPL 
+Price: 146.64 
+Change: +0.29 
+Percent Change: +0.20% 
+PE Ratio: 23.84 
+More Info: https://finance.yahoo.com/quote/AAPL?p=AAPL 

@@ -1,0 +1,7 @@
+Company: Amazon.com, Inc. 
+Symbol: AMZN 
+Price: 112.44 
+Change: +3.49 
+Percent Change: +3.20% 
+PE Ratio: 53.93 
+More Info: https://finance.yahoo.com/quote/AMZN?p=AMZN 

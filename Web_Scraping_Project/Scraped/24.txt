@@ -1,0 +1,7 @@
+Company: Exxon Mobil Corporation 
+Symbol: XOM 
+Price: 85.21 
+Change: -2.65 
+Percent Change: -3.02% 
+PE Ratio: 14.13 
+More Info: https://finance.yahoo.com/quote/XOM?p=XOM 

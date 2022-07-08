@@ -1,0 +1,7 @@
+Company: Upstart Holdings, Inc. 
+Symbol: UPST 
+Price: 26.76 
+Change: -6.98 
+Percent Change: -20.69% 
+PE Ratio: 16.94 
+More Info: https://finance.yahoo.com/quote/UPST?p=UPST 

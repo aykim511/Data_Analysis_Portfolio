@@ -1,0 +1,7 @@
+Company: Shopify Inc. 
+Symbol: SHOP 
+Price: 35.37 
+Change: +0.04 
+Percent Change: +0.11% 
+PE Ratio: 272.08 
+More Info: https://finance.yahoo.com/quote/SHOP?p=SHOP 

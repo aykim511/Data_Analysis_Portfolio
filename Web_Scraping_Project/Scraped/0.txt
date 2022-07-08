@@ -1,0 +1,7 @@
+Company: Advanced Micro Devices, Inc. 
+Symbol: AMD 
+Price: 79.02 
+Change: -0.28 
+Percent Change: -0.35% 
+PE Ratio: 28.02 
+More Info: https://finance.yahoo.com/quote/AMD?p=AMD 

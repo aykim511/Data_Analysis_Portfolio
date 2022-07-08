@@ -1,0 +1,7 @@
+Company: Meta Platforms, Inc. 
+Symbol: META 
+Price: 158.75 
+Change: +2.90 
+Percent Change: +1.86% 
+PE Ratio: 12.13 
+More Info: https://finance.yahoo.com/quote/META?p=META 

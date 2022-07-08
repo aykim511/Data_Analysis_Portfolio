@@ -1,0 +1,7 @@
+Company: Freeport-McMoRan Inc. 
+Symbol: FCX 
+Price: 29.57 
+Change: -1.75 
+Percent Change: -5.59% 
+PE Ratio: 8.55 
+More Info: https://finance.yahoo.com/quote/FCX?p=FCX 

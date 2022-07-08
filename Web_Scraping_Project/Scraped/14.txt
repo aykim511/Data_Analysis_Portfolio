@@ -1,0 +1,7 @@
+Company: Alibaba Group Holding Limited 
+Symbol: BABA 
+Price: 120.95 
+Change: -1.44 
+Percent Change: -1.18% 
+PE Ratio: 34.76 
+More Info: https://finance.yahoo.com/quote/BABA?p=BABA 

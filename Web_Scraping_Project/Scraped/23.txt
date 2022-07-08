@@ -1,0 +1,7 @@
+Company: Annaly Capital Management, Inc. 
+Symbol: NLY 
+Price: 6.09 
+Change: -0.05 
+Percent Change: -0.81% 
+PE Ratio: 3.52 
+More Info: https://finance.yahoo.com/quote/NLY?p=NLY 

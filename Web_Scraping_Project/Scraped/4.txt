@@ -1,0 +1,7 @@
+Company: Ford Motor Company 
+Symbol: F 
+Price: 11.60 
+Change: -0.05 
+Percent Change: -0.43% 
+PE Ratio: 4.06 
+More Info: https://finance.yahoo.com/quote/F?p=F 

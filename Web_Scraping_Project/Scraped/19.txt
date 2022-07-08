@@ -1,0 +1,7 @@
+Company: Occidental Petroleum Corporation 
+Symbol: OXY 
+Price: 60.69 
+Change: -0.78 
+Percent Change: -1.27% 
+PE Ratio: 9.18 
+More Info: https://finance.yahoo.com/quote/OXY?p=OXY 

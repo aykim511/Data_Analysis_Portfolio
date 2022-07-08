@@ -1,0 +1,7 @@
+Company: Tesla, Inc. 
+Symbol: TSLA 
+Price: 753.07 
+Change: +19.44 
+Percent Change: +2.65% 
+PE Ratio: 96.80 
+More Info: https://finance.yahoo.com/quote/TSLA?p=TSLA 
